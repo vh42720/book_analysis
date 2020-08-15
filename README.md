@@ -17,7 +17,7 @@ most of the above information unobtainable without charge.
 ### Structure
 
 The project is divided into 4 parts:
-1. clean_data: includes steps taken to read and clean up the data set.
+1. data cleaning: includes steps taken to read and clean up the data set.
 2. exploratory data analysis: investigate how each feature effecting ebook sales
 with visualizations.
 3. models: predicting sales using both linear and tree-based methods.
